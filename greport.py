@@ -18,3 +18,10 @@ else:
     grade = "F"
 
 print("Grade:", grade)
+
+def calculate_percentage(marks):
+    percentage = marks
+    return percentage
+
+percentage = calculate_percentage(marks)
+print("Percentage:", percentage)
